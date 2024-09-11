@@ -3,7 +3,7 @@ _Disclaimer: This project is in a design phase, and is not usable right now._
 ## `iff`: Feature Flags for User Interfaces
 
 [Feature flags](https://martinfowler.com/articles/feature-toggles.html) are an
-incredible tool for buulding and shipping software. `iff` provides a javascript
+incredible tool for building and shipping software. `iff` provides a javascript
 client for using feature flags in User Interfaces, agnostic of the backing
 service.
 
